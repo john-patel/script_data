@@ -64,6 +64,9 @@ Feel free to modify and adapt the script as needed.
 
 Make sure to replace `'YOUR_API_KEY'` with your actual Alpha Vantage API key in the code and provide any additional information or instructions you think would be helpful for users.
 
+
+
+
 ## Task 2
 
 # Indicator1 Readme
